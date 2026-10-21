@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "wevisa",
+  "version": "1.0.0",
+  "description": "Official WeVisa O-1A, O-1B, and EB-1A Immigration Petition Plugin Marketplace",
+  "owner": {
+    "name": "WeVisa AI",
+    "email": "support@wevisa.ai"
+  },
+  "plugins": [
+    {
+      "name": "wevisa",
+      "description": "Modular O-1A, O-1B, and EB-1A immigration petition drafting, rubric-based evidence evaluation, reference letter generation, and USCIS form auto-filling via WeVisa MCP.",
+      "version": "1.0.0",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

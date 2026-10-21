@@ -1,0 +1,11 @@
+{
+  "name": "wevisa",
+  "version": "1.0.0",
+  "description": "Modular O-1A, O-1B, and EB-1A immigration petition drafting, rubric-based evidence evaluation, reference letter generation, and USCIS form auto-filling.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "wevisa": {
+      "httpUrl": "https://wevisa.ai/mcp"
+    }
+  }
+}

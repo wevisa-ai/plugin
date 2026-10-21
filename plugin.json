@@ -1,0 +1,12 @@
+{
+  "name": "wevisa",
+  "displayName": "WeVisa O-1 & EB-1 Petition Suite",
+  "version": "1.0.0",
+  "description": "Modular O-1A, O-1B, and EB-1A immigration petition drafting, rubric-based evidence evaluation, reference letter generation, and USCIS form auto-filling.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Evaluate the documents in this folder against EB-1A criteria and run a case readiness audit",
+    "Draft an O-1A or EB-1A criterion section with supportive narrative and internal attorney review",
+    "Draft an Independent Expert Opinion letter and auto-fill Form I-129 from client documents"
+  ]
+}
